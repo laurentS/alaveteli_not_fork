@@ -287,7 +287,7 @@ GEM
     highline (3.1.2)
       reline
     holidays (8.8.0)
-    htmlentities (4.3.4)
+    htmlentities (4.4.2)
     httpclient (2.9.0)
       mutex_m
     i18n (1.14.7)
@@ -684,7 +684,7 @@ DEPENDENCIES
   gnuplot (~> 2.6.0)
   google-cloud-storage (~> 1.56)
   holidays (~> 8.8.0)
-  htmlentities (~> 4.3.0)
+  htmlentities (~> 4.4.2)
   i18n (~> 1.14.7)
   icalendar (~> 2.11.2)
   image_processing (~> 1.14)
