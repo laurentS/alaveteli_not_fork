@@ -147,7 +147,7 @@ GEM
     aws-sigv4 (1.12.1)
       aws-eventstream (~> 1, >= 1.0.2)
     base64 (0.3.0)
-    bcrypt (3.1.20)
+    bcrypt (3.1.21)
     benchmark (0.4.1)
     bigdecimal (3.2.2)
     bindex (0.8.1)
@@ -659,7 +659,7 @@ DEPENDENCIES
   alaveteli_features!
   annotaterb (~> 4.16.0)
   aws-sdk-s3
-  bcrypt (~> 3.1.20)
+  bcrypt (~> 3.1.21)
   benchmark (~> 0.4.1)
   bootstrap-sass (~> 2.3.2.2)
   bullet (~> 8.0.8)
